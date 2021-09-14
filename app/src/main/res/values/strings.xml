@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">To-Do-List App</string>
+    <string name="titleplaceholder">Insert Title</string>
+    <string name="tugas1">Melakukan revisi user flow pada aplikasi mobile Halo Konsultan.</string>
+    <string name="tugas2">Buat mockup icon untuk deliver.</string>
+    <string name="tugas3">Nonton video tutorial interactive component figma.</string>
+    <string name="tugasdone1">Upload eksplorasi UI</string>
+    <string name="tugasdone2">Revisi UI Essential Icon Pack</string>
+    <string name="buttontext">Insert Task</string>
+    <string name="tugas_mockup">Tugas Mockup To-Do-List</string>
+    <string name="upload_ui"><strike>Upload eksplorasi UI</strike></string>
+    <string name="revisi_icon"><strike>Revisi UI Essential Icon Pack</strike></string>
+    <string name="submittext">Submit Task</string>
+    <string name="insert_task_title">Insert Task Below</string>
+</resources>
